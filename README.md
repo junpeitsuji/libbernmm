@@ -80,7 +80,7 @@ p = 37
 require './PATH/TO/LIBBERNMM/bernmm'
 
 p Bernnm.ber(12)      # => (-691/2730)
-p Bernnm.ber(37, 32)  # => 0
+p Bernnm.ber_modp(37, 32)  # => 0
 ```
 
 
