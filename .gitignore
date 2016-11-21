@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+
+
+./bernmm-1.1
+*.bundle
+./ruby_wrapper/Makefile
+
+
