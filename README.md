@@ -69,7 +69,7 @@ p = 37
 ### Usage 
 
 ```
-require './path/to/libbernmm/bernmm'
+require './PATH/TO/LIBBERNMM/bernmm'
 
 p Bernnm.ber(12)      # => (-691/2730)
 p Bernnm.ber(37, 32)  # => 0
