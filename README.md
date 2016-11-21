@@ -1,5 +1,7 @@
 # libbernmm
-Ruby-Interface for bernmm-1.1 (C++ Library). http://web.maths.unsw.edu.au/~davidharvey/code/bernmm/
+Ruby-Interface for bernmm-1.1 (C++ Library). 
+`bernmm-1.1` is a HIGH SPEED caliculation library created by David Harvey (2009).
+http://web.maths.unsw.edu.au/~davidharvey/code/bernmm/
 
 
 ### Requirements 
