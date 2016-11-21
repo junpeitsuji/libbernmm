@@ -36,7 +36,7 @@ git clone https://github.com/junpeitsuji/libbernmm.git
 cd libbernmm
 ```
 
-install 
+To install, press the following command:
 ```
 ./build_and_install_libbernmm.sh
 ```
@@ -49,8 +49,12 @@ During installation, please type `y` key and press `[Enter]`.
 After installation, try test code:
 
 ```
-$ cd test_codes
-$ ruby test_ber.rb 
+cd test_codes
+ruby test_ber.rb 
+```
+
+Result:
+```
 0, 1, 1
 2, 1, 6
 4, -1, 30
