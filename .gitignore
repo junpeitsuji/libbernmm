@@ -30,8 +30,8 @@
 
 
 
-./bernmm-1.1
+bernmm-1.1/
 *.bundle
-./ruby_wrapper/Makefile
+ruby_wrapper/Makefile
 
 
